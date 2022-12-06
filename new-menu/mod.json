@@ -4,10 +4,14 @@
 	"version" : "1.1",
 	"author" : "Dru",
 	"contact" : "http://forum.vcmi.eu/index.php",
-	"modType" : "Graphical",
-
-	"depends" :
+	"modType" : "Interface",
+	"changelog" :
+	{
+		"1.0" : ["Initial release"],
+		"1.1" : ["Fixes"]
+	},
+	"conflicts" :
 	[
-		"vcmi"
+		"new-interface-mod"
 	]
 }
