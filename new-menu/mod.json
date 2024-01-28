@@ -1,17 +1,14 @@
 {
 	"name" : "High-res Menu",
 	"description" : "High resolution main menu pack created by Dru for VCMI",
-	"version" : "1.1",
+	"version" : "1.11",
 	"author" : "Dru",
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"modType" : "Interface",
 	"changelog" :
 	{
 		"1.0" : ["Initial release"],
-		"1.1" : ["Fixes"]
-	},
-	"conflicts" :
-	[
-		"new-interface-mod"
-	]
+		"1.1" : ["Fixes"],
+		"1.11" : ["Removed conflict with new-interface mod"],
+	}
 }
